@@ -45,7 +45,7 @@ is:
 There options are pretty straightforward. All of them have at least two forms (the short one and the long 
 one). Here they are:
 
-`-h` | `--help' - Show help
+`-h` | `--help` - Show help
 `-v` | `--version` - Show program name and version
 `-c` | `--controlbar` | `--ctlbar` | `--ctrlbar` - Enable control bar (next, forward, reload buttons and 
 label)
