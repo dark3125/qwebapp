@@ -46,17 +46,27 @@ There options are pretty straightforward. All of them have at least two forms (t
 one). Here they are:
 
 `-h` | `--help` - Show help
+
 `-v` | `--version` - Show program name and version
-`-c` | `--controlbar` | `--ctlbar` | `--ctrlbar` - Enable control bar (next, forward, reload buttons and 
-label)
+
+`-c` | `--controlbar` | `--ctlbar` | `--ctrlbar` - Enable control bar (history movement buttons and label)
+
 `-l` | `--setlabel` | `--labeltext` | `--setlabeltext` <string> - Set label in control bar
+
 `-t` | `--settitle` | `--titletext` | `--settitletext` <string> - Set window title
+
 `-i` | `--icon` | `--seticon` <string> - Set window icon (from theme)
+
 `-I` | `--fileicon` | `--setfileicon` <path> - Set window icon (from file [bitmap or vector])
+
 `-x` | `--xsize` | `--sizex` <int> - Window width (in pixels)
+
 `-y` | `--ysize` | `--sizey` <int> - Window height (in pixels)
+
 `-C` | `--center` - Move window to the center of the desktop
+
 `-X` | `--xpos` | `--posx` <int> - Window X coordinate on desktop (in pixels)
+
 `-Y` | `--ypos` | `--posy` <int> - Window Y coordinate on desktop (in pixels)
 
 Options `-C` and `-X` | `-Y` conflict with eachother. So does `-i` and `-I`. Setting the label has no effect 
