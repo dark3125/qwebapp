@@ -42,7 +42,7 @@ is:
 
     qwebapp [options] URL
 
-There options are pretty straightforward. All of them have at least two forms (the short one and the long 
+The options are pretty straightforward. All of them have at least two forms (the short one and the long 
 one). Here they are:
 
 `-h` | `--help` - Show help
