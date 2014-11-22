@@ -83,4 +83,4 @@ Screenshot
 ==========
 Here using QWebApp for a desktop-like YouTube experience:
 
-![Example use case][https://cdn.mediacru.sh/MFbxRYy_uN7V.png]
+![Example use case](https://cdn.mediacru.sh/MFbxRYy_uN7V.png)
