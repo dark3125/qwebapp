@@ -79,4 +79,8 @@ Example invocation of QWebApp:
 
     qwebapp "http://google.pl" -t "Google" -I ~/google.png -x 400 -y 500 -C
 
+Screenshot
+==========
+Here using QWebApp for a desktop-like YouTube experience:
 
+![Example use case][https://cdn.mediacru.sh/MFbxRYy_uN7V.png]
