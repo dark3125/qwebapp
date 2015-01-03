@@ -7,8 +7,8 @@ Fast and slick customizable minimalistic web browser used for making desktop lau
 What you need
 =============
 * Qt 5
-* GNU GCC G++ (or MinGW GCC G++ for Windoze) or any other compiler that works with this code
-* GNU Make (or MinGW Make for Windoze)
+* GNU GCC G++ (or MinGW GCC G++ for Windows) or any other compiler that works with this code
+* GNU Make (or MinGW Make for Windows)
 * Few seconds
 
 Compiling on Linux
@@ -27,7 +27,7 @@ Compiling on Mac OS X
     qmake -spec macx-g++ ..
     make
 
-Compiling on Windoze
+Compiling on Windows
 ====================
 
     md build
