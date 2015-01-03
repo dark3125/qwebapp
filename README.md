@@ -1,7 +1,7 @@
 QWebApp
 =======
 
-Fast and slick customizable minimalistic web browser used for making desktop launchers for web apps. Works on Linux, Windoze and Mac OS X.
+Fast and slick customizable minimalistic web browser used for making desktop launchers for web apps. Works on Linux, Windows and Mac OS X.
 
 
 What you need
