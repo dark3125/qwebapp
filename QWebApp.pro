@@ -18,3 +18,8 @@ SOURCES += src/code/main.cpp\
 HEADERS  += src/include/mainwindow.h
 
 FORMS    += src/form/mainwindow.ui
+
+unix {
+target.path = /usr/bin/
+INSTALLS += target
+}
